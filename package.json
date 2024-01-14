@@ -1,7 +1,7 @@
 {
   "name": "spacey_discord_bot",
   "version": "1.0.0",
-  "description": "",
+  "description": "fetches a discord server's scheduled events and makes them available in an API.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

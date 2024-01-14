@@ -4,3 +4,5 @@ build
 
 #Files
 package-lock.json
+.env
+*.exe
